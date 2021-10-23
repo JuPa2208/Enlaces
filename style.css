@@ -63,7 +63,19 @@ ul li a:hover{
     margin-top: 10px;
 }
 
+.parrafo {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    margin-top: 10px;
+}
+
 .title h1{
+    color: #FFFFFF;
+}
+
+.parrafo h2{
     color: #FFFFFF;
 }
 
